@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/2.Conditionals+Loops/2.Conditionals+Loops.iml" filepath="$PROJECT_DIR$/2.Conditionals+Loops/2.Conditionals+Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4.Functions/4.Functions.iml" filepath="$PROJECT_DIR$/4.Functions/4.Functions.iml" />
       <module fileurl="file://$PROJECT_DIR$/1.FirstProgram/class1.iml" filepath="$PROJECT_DIR$/1.FirstProgram/class1.iml" />
       <module fileurl="file://$PROJECT_DIR$/3.Switch+Nested/class3.iml" filepath="$PROJECT_DIR$/3.Switch+Nested/class3.iml" />
       <module fileurl="file://$PROJECT_DIR$/kunal kushwaha.iml" filepath="$PROJECT_DIR$/kunal kushwaha.iml" />
