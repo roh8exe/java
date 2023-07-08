@@ -13,8 +13,8 @@ public class MultipleIfElse {
             } else {
                 salary += 3000;
             }
-            System.out.print("Your Final Salary is : ");
-            System.out.println(salary);
+            System.out.print("Your Final Salary is : " +salary);
+
         }
     }
 
