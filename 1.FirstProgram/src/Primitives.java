@@ -8,3 +8,4 @@ public class Primitives {
         boolean check = true;
     }
 }
+//primitve dta types are those data types which is not breakable.
