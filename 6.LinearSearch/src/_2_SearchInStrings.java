@@ -6,7 +6,7 @@ public class _2_SearchInStrings {
         System.out.print("Enter the word: ");
         String name = in.next();
         System.out.print("Enter alphabet to be searched: ");
-        char target = in.next().charAt(0);
+        char target = in.next().trim().charAt(0);
         System.out.println(search(name , target));
     }
     static boolean search(String str , char target) {

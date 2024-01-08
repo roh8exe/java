@@ -7,7 +7,7 @@ public class Overloading {
     static void fun(int a ) {
         System.out.println(a);
     }
-    static void fun(String name){
+    static void fun(String name) {
         System.out.println(name);
     }
 

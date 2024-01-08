@@ -12,8 +12,8 @@ public class _7_enhanced2Darray {
             }
         }
         for (int[] ints : arr) {
-            for (int col = 0; col < ints.length; col++) { //for each col in every row
-                System.out.print(ints[col] + " ");
+            for (int anInt : ints) { //for each col in every row
+                System.out.print(anInt + " ");
             }
             System.out.println();
         }
