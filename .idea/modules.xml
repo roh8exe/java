@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/0.Questions/0.Questions.iml" filepath="$PROJECT_DIR$/0.Questions/0.Questions.iml" />
       <module fileurl="file://$PROJECT_DIR$/1.FirstProgram/1.FirstProgram.iml" filepath="$PROJECT_DIR$/1.FirstProgram/1.FirstProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10.StringAndStringBuilder/10.StringAndStringBuilder.iml" filepath="$PROJECT_DIR$/10.StringAndStringBuilder/10.StringAndStringBuilder.iml" />
       <module fileurl="file://$PROJECT_DIR$/2.Conditionals+Loops/2.Conditionals+Loops.iml" filepath="$PROJECT_DIR$/2.Conditionals+Loops/2.Conditionals+Loops.iml" />
       <module fileurl="file://$PROJECT_DIR$/3.Switch+Nested/3.Switch+Nested.iml" filepath="$PROJECT_DIR$/3.Switch+Nested/3.Switch+Nested.iml" />
       <module fileurl="file://$PROJECT_DIR$/4.FunctionsOrMethods/4.FunctionsOrMethods.iml" filepath="$PROJECT_DIR$/4.FunctionsOrMethods/4.FunctionsOrMethods.iml" />
@@ -14,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/9.Sorting/9.Sorting.iml" filepath="$PROJECT_DIR$/9.Sorting/9.Sorting.iml" />
       <module fileurl="file://$PROJECT_DIR$/0.Questions/ArrayArraylist/ArrayArraylist.iml" filepath="$PROJECT_DIR$/0.Questions/ArrayArraylist/ArrayArraylist.iml" />
       <module fileurl="file://$PROJECT_DIR$/0.Questions/BinarySearch/BinarySearch.iml" filepath="$PROJECT_DIR$/0.Questions/BinarySearch/BinarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/0.Questions/CyclicSort/CyclicSort.iml" filepath="$PROJECT_DIR$/0.Questions/CyclicSort/CyclicSort.iml" />
       <module fileurl="file://$PROJECT_DIR$/0.Questions/FunctionsMethods/FunctionsMethods.iml" filepath="$PROJECT_DIR$/0.Questions/FunctionsMethods/FunctionsMethods.iml" />
       <module fileurl="file://$PROJECT_DIR$/kunalkushwaha.iml" filepath="$PROJECT_DIR$/kunalkushwaha.iml" />
     </modules>
